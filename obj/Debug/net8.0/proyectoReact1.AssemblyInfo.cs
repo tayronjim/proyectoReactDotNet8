@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("proyectoReact1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2da4afbb75bbee9e342eb4a8c42e186c93257ab5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b816156f869ff91d0eb1145b8de0c820cc32233")]
 [assembly: System.Reflection.AssemblyProductAttribute("proyectoReact1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("proyectoReact1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
